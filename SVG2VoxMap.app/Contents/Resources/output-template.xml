@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<voxmap>
+<version>0.1</version>
+<width>%width%</width>
+<height>%height%</height>
+<theme>Black</theme>
+
+<author></author>
+<email></email>
+<webpage></webpage>
+
+<title></title>
+<description></description>
+<shortContinentLabels>true</shortContinentLabels>
+
+
+<team name="non-playable" symbol="•">
+	<player id="0" name="non-playable" color="0.2/0.2/0.2"  />
+</team>
+<continent>
+	<continentname>region 0</continentname>
+	<bonus>5</bonus>
+	%countries%
+</continent>
+</voxmap>
