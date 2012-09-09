@@ -12,11 +12,9 @@ A Basic droplet app written in AppleScript, which takes a source SVG file, and o
 Download & Installation
 ---
 
-Run the unit tests with a local server that supports PHP. No database is required. Pre-configured php local servers are available for Windows and Mac. Here are some options:
-
 [Download here](https://github.com/downloads/lukejcam/svg2VoxMap/SVG2VoxMap.zip)
 
-To Install, simply unzip and drag the app to applications folder. Drag a shortcut to your dock.
+To Install, simply unzip and drag the app to applications folder. Then Drag a shortcut to your dock.
 
 
 Usage
