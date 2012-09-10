@@ -12,7 +12,7 @@ A Basic droplet app written in AppleScript, which takes a source SVG file, and o
 Download & Installation
 ---
 
-[Download here](https://github.com/downloads/lukejcam/svg2VoxMap/SVG2VoxMap.zip)
+[Download here](https://github.com/downloads/lukejcam/svg2VoxMap/SVG2VoxMap1.0.zip)
 
 To Install, simply unzip and drag the app to applications folder. Then Drag a shortcut to your dock.
 
